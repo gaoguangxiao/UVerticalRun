@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{64D97213-607C-2DB2-99D2-A9B8B446F6AC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mirror/Core/NetworkBehaviour.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.ai.navigation@1.1.5/Editor/NavigationOverlay.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/UI/PartsUI.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/UI/ButtonParts.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/Character/CharacterBase.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/UI/AnimationUI.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/UI/ButtonAnimation.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/Character/PartsItem.cs" />
+      <File FileName="Assets/Layer Lab/3D Casual Character/Demo/Scripts/Character/Parts.cs" />
+      <File FileName="Assets/RunRedHero/Scripts/RunScipt/RunAuto.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mirror/Core/NetworkBehaviour.cs" Line="169" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RunRedHero" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Mirror" expanded="True">
+                <Node name="Core" expanded="True" />
+              </Node>
+              <Node name="RunRedHero" expanded="True">
+                <Node name="Prefabs" expanded="True" />
+                <Node name="Resourse" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Map" expanded="True" />
+                  <Node name="OnlineTest" expanded="True" />
+                  <Node name="RunScipt" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d8125818-4f80-4f90-a71c-ceacf829a4c1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
